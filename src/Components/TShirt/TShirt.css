@@ -1,0 +1,17 @@
+.tshirt-ct img{
+   height: 250px;
+   padding: 15px;
+}
+.tshirt-ct{
+   border: 1px solid lightblue;
+   border-radius: 15px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.tshirt-ct h1{
+    margin: 0;
+}
+.btn-tshirt{
+    margin-bottom: 10px;
+}
